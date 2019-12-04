@@ -1,4 +1,4 @@
-# office365-scripts
+# Office365-Scripts
 
 This repo contains a series of scripts that I built to manage users within Office365 and automate common task. 
 
