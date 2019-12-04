@@ -96,7 +96,7 @@ function add-officelicense {
  
         else { }
  
-        # Assign license
+        # Assign specified Office365 license
  
        
         Write-Verbose -Message "Assigning license to $($username)."
